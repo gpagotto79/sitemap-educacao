@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/artigos/holding-familiar</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/artigos/imovel-base-patrimonial</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/artigos/patrimonio-vs-investimento</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/artigos/sucessao-inteligente</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/artigos/tokenizacao-patrimonial</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/comunidade</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/contato</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/ebooks/como-construir-uma-sa-patrimonial</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/ebooks/como-estruturar-uma-holding-de-forma-inteligente</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/ebooks/economia-digital</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/ebooks/guia-patrimonial-para-jovens-sucessores</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/ebooks/patrimonio-hibrido-entre-holding-e-blockchain</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/ebooks/sucessao-internacional-com-trusts</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/glossario</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/materials</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/newsletter</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/perfil</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/podcast</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/sobre</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/trilha-do-conhecimento/estrutura-sucessao</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/trilha-do-conhecimento/fundamentos-patrimoniais</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/trilha-do-conhecimento/inovacao-patrimonio</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://educacao.equilibriacapital.com.br/trilha-do-conhecimento/legado-visao</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
